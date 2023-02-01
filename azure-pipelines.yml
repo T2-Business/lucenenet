@@ -78,6 +78,8 @@ variables:
   value: 'version'
 - name: BuildNumberFileName
   value: 'buildNumber.txt'
+- name: ArtifactFeedID
+  value: 'T2.sa'
 - name: PackageVersionFileName
   value: 'packageVersion.txt'
 - name: FileVersionFileName
