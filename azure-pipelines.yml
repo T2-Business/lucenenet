@@ -79,7 +79,7 @@ variables:
 - name: BuildNumberFileName
   value: 'buildNumber.txt'
 - name: ArtifactFeedID
-  value: 'Ole5'
+  value: 'Ole5_New_Architecture/Ole5'
 - name: PackageVersionFileName
   value: 'packageVersion.txt'
 - name: FileVersionFileName
